@@ -1,0 +1,9 @@
+#EXTM3U url-tvg=https://iptvx.one/EPG
+#EXTINF:-1  tvg-id="telemiks", Телемикс (Уссурийск)
+http://172.17.31.1/streaming/tmx_ussuri/14/copyaac/playlist.m3u8
+#EXTINF:-1 tvg-id="otv-primorie", ОТВ Прим
+http://172.17.31.1/streaming/otvprim_hd/14/copyaac/playlist.m3u8
+#EXTINF:-1 tvg-id="8vladik", 8 Канал (Владивосток)
+http://172.17.31.2/streaming/viii_kanal/14/copyaac/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv-ru", CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
