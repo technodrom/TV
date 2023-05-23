@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/16/e4/40/ME14VKNR_t.jpg" audio-track="ru", Телемикс (Уссурийск)
+http://172.17.31.1/streaming/tmx_ussuri/14/copyaac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/f3/cd/80/ME14VKNQ_t.jpg" audio-track="ru", ОТВ Прим
+http://172.17.31.1/streaming/otvprim_hd/14/copyaac/playlist.m3u8
+#EXTINF:0 type="stream" audio-track="ru" channelId="1535", 8 Канал (Владивосток)
+http://172.17.31.2/streaming/viii_kanal/14/copyaac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/f8/0c/bd/ME14VKNP_t.jpg" audio-track="ru", Восток 24
+http://172.17.31.1/streaming/vostok24ussury/14/copyaac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://33-94-94.ru/wp-content/uploads/2017/06/%D1%84%D0%B8%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D0%BA-1-01.png" audio-track="ru", Гyбеpния (Xабаровск)
+https://media1.gubernia.com/hls/live.m3u8
+#EXTINF:0 type="stream" logo="https://cdn-thumbs.imagevenue.com/5f/f2/a4/ME14VKNZ_t.png" channelId="779", 6ТВ (Хабаровск)
+http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/fb/24/20/ME151PUW_t.png", Лента
+http://172.17.31.2/streaming/lenta/1888/onlyvlccopy/playlist.m3u8
+#EXTINF:0 type="stream" audio-track="ru" channelId="9", РБК HD
+http://172.17.31.1/streaming/rbk_vl/14/onlyffcopy/playlist.m3u8
+#EXTINF:0 type="stream" audio-track="ru" channelId="4640", Настоящее время
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/286757
+#EXTINF:0 type="stream" channelId="217", Euronews
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:0 type="stream" channelId="405", RTVi
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5845
+#EXTINF:0 type="stream" audio-track="ru" channelId="160", Ностальгия
+http://172.17.31.2/streaming/nostalgy/1888/onlyffcopy/playlist.m3u8
+#EXTINF:0 type="stream" channelId="331", CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="352", Deutsche Welle
+http://172.17.31.1/streaming/deutsche_welle_hd/14/onlyffcopy/playlist.m3u8
+#EXTINF:0 type="stream" tvg-country="uk" channelId="1118", BBC One HD
+http://62.2.85.68:39981/play/a01k
+#EXTINF:0 type="stream" tvg-country="uk" channelId="1119", BBC Two
+http://45.153.35.221:8000/play/a009/index.m3u8
+#EXTINF:0 type="stream" tvg-country="uk" channelId="1179", iTV
+http://45.153.35.221:8000/play/a00n/index.m3u8
+#EXTINF:0 type="stream" tvg-country="uk" channelId="1210", Channel 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1257
+#EXTINF:0 type="stream" tvg-country="uk" channelId="1143", BBC News
+http://87.212.248.44:60230/play/a04n/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/8f/63/13/ME14VKP0_t.png" audio-track="cn", CCTV-13
+http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/b2/d8/e1/ME14VKOZ_t.png" audio-track="cn", CCTV-1
+http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/78/21/ec/ME14VKPC_t.png" tvg-country="cn", CCTV2
+http://39.135.32.236:6610/PLTV/77777777/224/3221225657/index.m3u8?桂林移动
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/ed/9a/da/ME14VKPD_t.png" audio-track="cn", CCTV-3
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/3f/83/87/ME151PZI_t.png" tvg-country="cn", CCTV12
+http://39.135.32.236:6610/PLTV/77777777/224/3221225645/index.m3u8?桂林移动
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/52/3f/1e/ME14VKPE_t.png" tvg-country="cn", CCTV14
+http://39.135.32.236:6610/PLTV/77777777/224/3221225648/index.m3u8?桂林移动
+#EXTINF:0 type="stream" channelId="-1" group="Музыкальный" logo="http://images.vfl.ru/ii/1626359722/8670ec92/35167211.png" audio-track="cn" tvg-country="cn", CCTV-15
+http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/ad/14/75/ME14VM11_t.png", 广州综合
+http://ye23.win/iptv/gztv.php?id=zhonghe
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://cdn-thumbs.imagevenue.com/0f/81/64/ME14VM10_t.png" audio-track="cn" tvg-country="cn", 广州新闻
+http://ye23.win/iptv/gztv.php?id=xinwen
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/b2/dd/c9/ME14VKQT_t.png" audio-track="cn", 珠海综合
+http://dslive.grtn.cn/zhzh/sd/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", 澳門
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/59/9c/d9/ME14VM0V_t.png", Macau TV
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1626264262/aaa7767c/35151677.png" tvg-country="mo", TDM Macau
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="776", Амурское Областное Телевидение
+http://dmitry-tv.ddns.net:60/hls/zabava/region/DV_BLAG/CH_AOTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/d8/d9/1c/ME14VM13_t.png" audio-track="ru", Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/fc/20/b1/ME14VM14_t.png" audio-track="ru", 41 Регион Камчатка
+https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/13/f9/f8/ME14VM0W_t.png" audio-track="ru", ОТВ Сахалин
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1630996977/9482b0e0/35762536.png" tvg-country="cn", Guangzhou Live
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1630996977/9482b0e0/35762536.png" tvg-country="cn", Harbin Live
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png" audio-track="ru" tvg-country="ru", Уссурийск Некрасова - Комсомольская
+https://hls7.vladlink.ru/live/vlcam_379/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png" audio-track="ru" tvg-country="ru", Уссурийск Некрасова - Пролетарская
+https://hls7.vladlink.ru/live/vlcam_765/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png" audio-track="ru" tvg-country="ru", Уссурийск Некрасова - Чичерина
+https://hls7.vladlink.ru/live/vlcam_381/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png" audio-track="ru" tvg-country="ru", Уссурийск Центральная площадь
+https://hls7.vladlink.ru/live/vlcam_94/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png", Уссурийск Некрасова - Комарова
+https://hls7.vladlink.ru/live/vlcam_743/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png", Площадь Владивосток
+http://hls7.vladlink.ru/live/vlcam_42/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png", Владивосток - Дальпресс
+https://flussonic0.podryad.net/CAM-okeanski-pr-83/tracks-v1/mono.m3u8?token=2.5rQkkFyJAAEABZPIp7NVRiGnjqptT6LUFE0aJT_MpnOIXrXN
+#EXTINF:0 type="stream" 1" channelId="1434", Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:0 type="stream" group="News" channelId="2881", ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 type="stream" 1" audio-track="en" channelId="1358", NBC News
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:0 type="stream" audio-track="en" channelId="1944", ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:0 type="stream" tvg-country="au" channelId="5007", ABC (AU)
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/173559
+#EXTINF:0 type="stream" logo="https://cdn-thumbs.imagevenue.com/72/8a/1f/ME14WHV1_t.png" tvg-country="Au" channelId="5008", SBS HD
+http://117.20.65.254:9981/stream/channelid/128035345
+#EXTINF:0 type="stream" logo="http://images.vfl.ru/ii/1626333698/192717dc/35161214.png" tvg-country="nl" channelId="3285", NPO 1
+http://212.18.115.177:3531/play/a001/index.m3u8
+#EXTINF:0 type="stream" logo="http://images.vfl.ru/ii/1626333801/b15ed59b/35161222.png" tvg-country="nl" channelId="3286", NPO 2
+http://178.251.29.83:7242/play/a01c
+#EXTINF:0 type="stream" logo="http://images.vfl.ru/ii/1626333933/33214de6/35161283.png" tvg-country="nl" channelId="3287", NPO 3
+http://212.18.115.177:3531/play/a02v/index.m3u8
+#EXTINF:0 type="stream" tvg-country="nl" channelId="3557", RTL 4
+http://212.18.115.177:3531/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" audio-track="cn", 广东卫视
+http://140.207.241.3:8080/live/program/live/gdwshd/4000000/d1.m3u8
+#EXTINF:0 type="stream" 1" logo="https://cdn-thumbs.imagevenue.com/78/21/ec/ME14VKPC_t.png" audio-track="cn" channelId="1414", CCTV-2
+http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/52/3f/1e/ME14VKPE_t.png" audio-track="cn", CCTV-14
+http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV_14.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1634480498/9b11960e/36296119.png" tvg-country="hk", Pearl TV
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:0 type="stream" channelId="779" group="Региональные" logo="http://33-94-94.ru/wp-content/uploads/2017/06/%D1%84%D0%B8%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D0%BA-1-01.png", Губерния Хабаровск
+https://media1.gubernia.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,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" tvg-country="mo", Macau TV
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1626264262/aaa7767c/35151677.png" tvg-country="mo", TDM Info
+http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Web-Camera" logo="http://images.vfl.ru/ii/1626265169/fe065460/35152063.png" tvg-country="cn", Zhuhai Live
+http://ye23.win/iptv/zhuhai2021.php
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1632739999/1aea12fc/36027709.jpg" audio-track="hk" tvg-country="hk", 翡翠台
+http://liuy.usa7.20212021.ga/ns.php?id=78
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1626365521/63676822/35168296.jpg" tvg-country="cn", 佛山综合
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1626365610/33b078cb/35168299.jpg" tvg-country="cn", 佛山公共
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.vfl.ru/ii/1634479757/02650f5c/36295998.png" audio-track="cn" tvg-country="cn", MTV China
+http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+#EXTINF:0 type="stream" 1" logo="http://images.vfl.ru/ii/1639921510/646ff374/37169579.png" audio-track="vi" tvg-country="VN" channelId="4237", VTV1
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv1
+#EXTINF:0 type="stream" channelId="1535", 8 Канал (Владивосток)
+https://livestream.8kanal.tv/hls/livestream_src.m3u8
+#EXTINF:0 type="stream" logo="http://images.vfl.ru/ii/1626264001/985602a4/35151571.jpg" channelId="1535", 8 Канал (Владивосток)
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8?version=2
+#EXTINF:0 type="stream" audio-track="ru" tvg-country="ru" channelId="4", Матч HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
+#EXTINF:0 type="stream" channelId="160", Ностальгия
+http://185.6.124.8:65000/udp/224.1.1.41:1234
+#EXTINF:0 type="stream" channelId="160", Ностальгия
+http://128.0.27.41:8080/239.211.211.16/mpegts
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/16/e4/40/ME14VKNR_t.jpg" audio-track="ru" tvg-country="ru", Телемикс (Уссурийск)
+http://dmitry-tv.ddns.net:60/hls/zabava/region/DV_VLD/CH_TELEMIKS.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/f3/cd/80/ME14VKNQ_t.jpg" audio-track="ru", ОТВ Прим
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/f8/0c/bd/ME14VKNP_t.jpg" audio-track="ru", Восток 24
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="9", РБК
+http://128.0.27.41:8080/239.211.211.76/mpegts
+#EXTINF:0 type="stream" audio-track="ru" channelId="9", РБК
+http://78.25.155.47:1309/channel/RBK.ts
+#EXTINF:0 type="stream" logo="http://images.vfl.ru/ii/1643205418/151a106f/37735143.png" audio-track="fr" channelId="2184", MCM
+http://190.2.155.162:8080/mcm/mpegts
+#EXTINF:0 type="stream" channelId="1118", BBC One
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15587.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/9b/51/33/ME151PWH_t.png" tvg-country="ru", ВТВ-Находка
+http://94.229.250.73:8008/play/a001
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/8f/63/13/ME14VKP0_t.png" tvg-country="cn", CCTV-13
+http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/ad/14/75/ME14VM11_t.png" tvg-country="cn", 广州综合
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.tvchinese.net/uploads/tv/dgtv1.jpg" audio-track="cn" tvg-country="cn", 东莞新闻综合频道
+http://dslive.grtn.cn/dgzh/sd/live.m3u8
+#EXTINF:0 type="stream" audio-track="ru" channelId="2", Россия 1 HD
+http://172.17.31.1/streaming/russiahd/14/onlyffcopy/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/10/b2/0a/ME151PVI_t.png", Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:0 type="stream" audio-track="ru" shift="7" channelId="14", 2x2
+http://172.17.31.1/streaming/2x2tv/14/onlyffcopy/playlist.m3u8
+#EXTINF:0 type="stream" channelId="56", National Geographic HD
+http://172.17.31.2/streaming/national_geographic_hd/14/copyaac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="38", Дождь
+http://84.17.61.200:8085/udp/238.2.0.151:1234
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/9b/51/33/ME151PWH_t.png" audio-track="ru", Восток ТВ Находка
+http://172.17.31.2/streaming/tmb_ru/14/onlyffcopy/playlist.m3u8
+#EXTINF:0 type="stream" audio-track="ru" channelId="29", О2
+http://172.17.31.1/streaming/o2tv/14/copyaac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn-thumbs.imagevenue.com/a7/ad/d4/ME14VOF4_t.png", MTV90s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
